@@ -1,1 +1,2 @@
 # DL4RNA_AI4S_comp
+基于LightGBM和CNN，结合传统机器学习与深度学习神经网络的混合式解决方案
